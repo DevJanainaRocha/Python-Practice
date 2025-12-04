@@ -56,7 +56,7 @@ Este repositório tem como propósito:
 
 # Sobre mim
 
-Sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou em transição e especialização para a área de Engenharia e Qualidade de Software (QA).Atuo como Tester e QA no setor de Inovação, contribuindo também com:
+Sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou em transição e especialização para a área de Engenharia e Qualidade de Software (QA). Atuo como Tester e QA no setor de Inovação, contribuindo também com:
 
 - Gestão e organização de tarefas no ClickUp
 
