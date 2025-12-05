@@ -1,15 +1,13 @@
 **Python Practice**
 
-Repositório criado para registrar minha jornada de estudos em Python, reunindo práticas, exercícios, experimentos, anotações e projetos completos.
-O objetivo é consolidar conhecimentos, fortalecer fundamentos e evoluir continuamente na linguagem.
+# Sobre o Repositório
+Este repositório foi criado para documentar minha jornada de estudos em Python, reunindo práticas, exercícios, anotações, experimentos e projetos completos desenvolvidos ao longo do meu aprendizado.
+Status: Em construção
+Este repositório está sendo reorganizado e atualizado. A estrutura e o conteúdo podem sofrer alterações até a conclusão do processo.
 
-# Objetivo
+Seu propósito é:
 
-Este repositório tem como propósito:
-
-- Documentar meu aprendizado
-
-- Acompanhar minha evolução técnica
+- Registrar e acompanhar minha evolução técnica
 
 - Reforçar práticas de lógica e programação
 
@@ -17,25 +15,19 @@ Este repositório tem como propósito:
 
 - Facilitar revisões e estudos futuros
 
-# Sobre o repositório
+- Consolidar conhecimentos, desde o básico até conteúdos mais avançados
 
-Este espaço concentra meus estudos de Python — desde o básico até conteúdos mais avançados — incluindo:
+Aqui você encontrará:
 
 ✔ Fundamentos da linguagem
-
 ✔ Estruturas de dados
-
 ✔ Programação Orientada a Objetos (POO)
-
 ✔ Manipulação de arquivos
-
 ✔ Tratamento de erros
-
 ✔ Práticas e exercícios guiados
-
 ✔ Projetos completos aplicando os conceitos aprendidos
 
-O repositório é organizado de forma clara para facilitar revisões, consultas e evolução contínua.
+O repositório está organizado de forma clara para facilitar consultas, aprendizado contínuo e visualização da minha evolução na linguagem.
 
 # Estrutura do repositório
 python-practice/
@@ -54,6 +46,9 @@ python-practice/
 │
 └── projects/             → Projetos completos desenvolvidos em Python
 
+conceitos aprendidos
+
+O repositório é organizado de forma clara para facilitar revisões, consultas e evolução contínua.
 
 
 
