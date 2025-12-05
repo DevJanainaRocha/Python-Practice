@@ -1,5 +1,3 @@
-**Python Practice**
-
 # Sobre o Repositório
 Este repositório está sendo reorganizado e foi criado para documentar minha jornada de estudos em Python, reunindo práticas, exercícios, anotações, experimentos e projetos completos desenvolvidos ao longo do meu aprendizado. A estrutura e o conteúdo podem sofrer alterações até a conclusão do processo. 
 
